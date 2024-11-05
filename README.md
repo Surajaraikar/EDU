@@ -6,7 +6,7 @@ To view a live demo <a href="https://edusu.netlify.app/">click here</a>.
 <h2>Installation</h2>
 
 <h4>1. Clone the repository:</h4>
-   git clone https://github.com/Surajaraikar/Edusity.git <br>
+   git clone https://github.com/Surajaraikar/EDU.git <br>
    cd EDUSITY
 <h4>3. Install the dependencies:</h4>
    npm install
