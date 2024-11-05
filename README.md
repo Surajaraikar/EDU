@@ -1,8 +1,15 @@
-# React + Vite
+EDUSITY is a responsive, user-friendly educational platform built with React. This project aims to provide a seamless and engaging user experience. EDUSITY is designed with adaptability in mind, ensuring a consistent and accessible experience across a range of devices, from mobile phones to desktops.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Demo</h2>
+To view a live demo <a href="https://edusu.netlify.app/">click here</a>.
 
-Currently, two official plugins are available:
+<h2>Installation</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h4>1. Clone the repository:</h4>
+   git clone https://github.com/Surajaraikar/Edusity.git <br>
+   cd EDUSITY
+<h4>3. Install the dependencies:</h4>
+   npm install
+<h4>4. Start the development server:</h4>
+   npm start
+<h4>5. Open your browser and go to http://localhost:3000.</h4>
